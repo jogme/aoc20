@@ -1,0 +1,6 @@
+*.input
+*.dummy
+*.example
+out
+load_input.py
+__pycache__
